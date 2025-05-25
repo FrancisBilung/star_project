@@ -8,19 +8,8 @@
   const CANVASWIDTH = 500
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
- let texts = ['MY DEAR']
-  let texts = ['LOOK UP']
-    let texts = ['AT THE']
-     let texts = [ 'STARRY SKY']
-      let texts = ['ARE YOU']
-       let texts = ['LOOKING']
-        let texts = ['AT THE']
-         let texts = ['SAME STAR']
-          let texts = ['WITH ME ?']
-           let texts = ['HAPPY']
-            let texts = ['BIRTHDAY 🧁']
-             let texts = ['MUKESH']
- // let texts = ['MY DEAR', 'LOOK UP', 'AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING',  'AT THE', 'SAME STAR', 'WITH ME ?', 'HAPPY', 'BIRTHDAY 🧁', 'DAY', 'MUKESH', ]  //'I LOVE YOU ❤️', //
+
+ let texts = ['MY DEAR', 'LOOK UP', 'AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING',  'AT THE', 'SAME STAR', 'WITH ME ?', 'HAPPY', 'BIRTHDAY 🧁', 'DAY', 'MUKESH', ]  //'I LOVE YOU ❤️', //
 
   let canvas,
     ctx,
